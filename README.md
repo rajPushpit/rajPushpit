@@ -1,11 +1,13 @@
 # 👋 Hi, I'm Pushpit Raj  
 
+📧 **Email:** pushpitraj19jan@gmail.com  
+🌐 **Portfolio:** https://www.pushpit-portfolio.site/
+
 🎓 **B.Tech Final Year Student**  
 💻 **Backend / Full Stack Developer**  
 🧠 **Python | Django | FastAPI | React.js**  
 🌱 **Learning SEO-Friendly Development & Cyber Security**
 
-📫 **Reach me at:- pushpitraj19jan@gmail.com
 ---
 
 ## 🚀 About Me
@@ -72,5 +74,6 @@ Currently, I am developing a **freelancing platform website** where users can of
 - Docker & containerization  
 - Backend performance optimization  
 
+---
 
 ✨ *Building strong foundations for scalable systems.*
