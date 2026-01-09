@@ -80,11 +80,18 @@ Currently, I am developing a **freelancing platform website** where users can of
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajPushpit&show_icons=true&hide_border=true" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajPushpit&show_icons=true" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajPushpit&layout=compact&hide_border=true" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajPushpit" />
+</p>
+
 
 
 ✨ *Building strong foundations for scalable systems.*
