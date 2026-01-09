@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Pushpit Raj  
 
-📧 **Email:** pushpitraj19jan@gmail.com  
-🌐 **Portfolio:** https://www.pushpit-portfolio.site/
- 🔗 **LinkedIn:** https://www.linkedin.com/in/pushpit-raj-19jan/
-
+📧 **Email:** [pushpitraj19jan@gmail.com](mailto:pushpitraj19jan@gmail.com) &nbsp; | &nbsp;
+🌐 **Portfolio:** [pushpit-portfolio.site](https://www.pushpit-portfolio.site/) &nbsp; | &nbsp;
+🔗 **LinkedIn:** [pushpit-raj-19jan](https://www.linkedin.com/in/pushpit-raj-19jan/)
 
 🎓 **B.Tech Final Year Student**  
 💻 **Backend / Full Stack Developer**  
-🧠 **Python | Django | FastAPI | React.js**  
-🌱 **Learning SEO-Friendly Development & Cyber Security**
+🧠 **Python • Django • FastAPI • React.js**  
+🌱 **Learning SEO-Friendly Web Development & Cyber Security**
 
 ---
+
 
 ## 🚀 About Me
 
