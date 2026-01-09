@@ -78,20 +78,4 @@ Currently, I am developing a **freelancing platform website** where users can of
 
 ---
 
----
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajPushpit&show_icons=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajPushpit" />
-</p>
-
-
-
 ✨ *Building strong foundations for scalable systems.*
